@@ -1,6 +1,6 @@
-# PRAKTIKUM-8
-
 KESIMPULAN :
+
+# PRAKTIKUM-8
 Terdapat banyak algoritma sorting di dunia pemrograman. dua di antaranya 
 adalah Bubble Sort dan Shell Sort. Bubble Sort merupakan pengurutan dengan cara 
 pertukaran data dengan disebelahnya secara terus menerus sampai dalam satu iterasi 
